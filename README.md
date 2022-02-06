@@ -11,7 +11,7 @@ docker run --name mongodb -d -p 27017:27017 mongo
 Getting a user by id
 
 ```graphql
-mutation {
+query {
   user(id: "61fff210196972b7cc1d3789") {
     name
     email
@@ -22,7 +22,7 @@ mutation {
 Getting a list of users
 
 ```graphql
-mutation {
+query {
   users {
     id
     name
