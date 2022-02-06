@@ -1,0 +1,29 @@
+{
+  "name": "nodejs.graphql.basic.template",
+  "version": "1.0.0",
+  "description": "Basic template of a NodeJS application with GraphQL",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyber-Psilocybin-Institute/nodejs.graphql.basic.template.git"
+  },
+  "keywords": [
+    "nodejs",
+    "graphql",
+    "apollo-server"
+  ],
+  "author": "Cyber Psilocybin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Cyber-Psilocybin-Institute/nodejs.graphql.basic.template/issues"
+  },
+  "homepage": "https://github.com/Cyber-Psilocybin-Institute/nodejs.graphql.basic.template#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^6.2.0"
+  }
+}
