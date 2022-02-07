@@ -1,3 +1,7 @@
+<h3 align="center">
+  <img src="./assets/images/cyber-psilocybin-logo.png" width="400">
+</h3>
+
 # nodejs.graphql.basic.template
 ⚗ Basic template of a NodeJS application with GraphQL
 
